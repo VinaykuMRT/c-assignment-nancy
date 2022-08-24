@@ -1,0 +1,15 @@
+C:\Users\COMP\source\repos\ConsoleApp demo\bin\Debug\net6.0\ConsoleApp demo.exe
+C:\Users\COMP\source\repos\ConsoleApp demo\bin\Debug\net6.0\ConsoleApp demo.deps.json
+C:\Users\COMP\source\repos\ConsoleApp demo\bin\Debug\net6.0\ConsoleApp demo.runtimeconfig.json
+C:\Users\COMP\source\repos\ConsoleApp demo\bin\Debug\net6.0\ConsoleApp demo.dll
+C:\Users\COMP\source\repos\ConsoleApp demo\bin\Debug\net6.0\ConsoleApp demo.pdb
+C:\Users\COMP\source\repos\ConsoleApp demo\obj\Debug\net6.0\ConsoleApp demo.csproj.AssemblyReference.cache
+C:\Users\COMP\source\repos\ConsoleApp demo\obj\Debug\net6.0\ConsoleApp demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMP\source\repos\ConsoleApp demo\obj\Debug\net6.0\ConsoleApp demo.AssemblyInfoInputs.cache
+C:\Users\COMP\source\repos\ConsoleApp demo\obj\Debug\net6.0\ConsoleApp demo.AssemblyInfo.cs
+C:\Users\COMP\source\repos\ConsoleApp demo\obj\Debug\net6.0\ConsoleApp demo.csproj.CoreCompileInputs.cache
+C:\Users\COMP\source\repos\ConsoleApp demo\obj\Debug\net6.0\ConsoleApp demo.dll
+C:\Users\COMP\source\repos\ConsoleApp demo\obj\Debug\net6.0\refint\ConsoleApp demo.dll
+C:\Users\COMP\source\repos\ConsoleApp demo\obj\Debug\net6.0\ConsoleApp demo.pdb
+C:\Users\COMP\source\repos\ConsoleApp demo\obj\Debug\net6.0\ConsoleApp demo.genruntimeconfig.cache
+C:\Users\COMP\source\repos\ConsoleApp demo\obj\Debug\net6.0\ref\ConsoleApp demo.dll
